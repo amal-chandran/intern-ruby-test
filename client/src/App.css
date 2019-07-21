@@ -1,0 +1,14 @@
+html,body{
+  margin: 0px;padding: 0px;
+}
+*{
+  box-sizing: border-box;
+}
+
+input.file-input{
+  padding: 1rem;
+  border: 1px solid gray;
+  margin-top: 1rem;
+  border-radius: 4px;
+  width: 100%;
+}
